@@ -114,4 +114,4 @@ error2.pack()
 go = tk.Button(query_frame,text = "GO!",font = ("verdana",20,"bold"),fg = "yellow",bg = "red",padx = 20,command = result)
 go.pack(pady = 40)
 
-
+root.mainloop()
